@@ -1,0 +1,2 @@
+# multifasta
+multiple fasta file
